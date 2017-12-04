@@ -1,14 +1,13 @@
 # Site settings
-title: Hawaal's post
+title: Hawaal's posts
 email: shwjuri@hanmail.net
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: Journalist
 
 # Social icons
-facebook: username
 
 footer: ©Hawaal
 
